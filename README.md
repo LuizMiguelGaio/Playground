@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src/assets/to_readme/castle.png" alt="Bouncy Castle">
+  <img src="src/assets/to_readme/castle500x240.png" alt="Bouncy Castle">
 </p>
 
 
