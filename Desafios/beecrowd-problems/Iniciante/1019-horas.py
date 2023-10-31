@@ -1,10 +1,8 @@
 N = int(input())
 
-minuto = (N%3600)//60
+hora = N // 3600  
+minuto = (N % 3600) // 60  
+segundo = N % 60  
 
-hora = (minuto%3600)//60
-
-segundo = (N%3600)%60
-
-
-print(f'{hora}:{minuto}:{segundo}')
+#print(f'{hora}:{minuto}:{segundo}')
+print(hora, minuto, segundo, sep=':') #Só aceitou a resposta com a função 'sep'
