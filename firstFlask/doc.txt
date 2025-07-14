@@ -1,2 +1,0 @@
-A ideia do Task Master é exatamente oque o nome sujere, umc criador de tarefas onde posso deletar e atualizar tarefas.
-Algo bem simples que fiz assistindo um vídeo do freeCodeCamp.org.
