@@ -8,9 +8,10 @@ Este projeto foi criado para **auditar e remover programas indesejados** em máq
 
 ```
 
-programs\_audit\_uninstall/
-├── listar\_todos.ps1          # Lista todos os programas instalados
-├── remover\_programas.ps1     # Remove os programas definidos em Remover.txt
+programs_audit_uninstall/
+├── listar_todos_txt.ps1      # Lista todos os programas instalados em txt
+├── listar_todos_csv.ps1      # Lista todos os programas instalados em csv
+├── remover_programas.ps1    # Remove os programas definidos em Remover.txt
 ├── Remover.txt               # Lista de programas a remover (um por linha)
 ├── ReadMeFirst.txt           # Instruções detalhadas para Windows 7
 ├── Win7-KB3191566-x86.zip    # Atualização para PS 5.1 no Windows 7
