@@ -16,12 +16,6 @@ Bem-vindo ao meu repositório de playground! Aqui você encontrará uma coleçã
 2. **Códigos Soltos:**
    - Esta seção contém pequenos projetos, scripts ou códigos isolados que podem ser úteis ou interessantes. Sinta-se à vontade para explorar e usar esses códigos como desejar.
 
-## Como Navegar
-
-1. Navegue pelo repositório usando a barra de menus na parte superior.
-2. Clique em pastas para explorar os exercícios resolvidos ou códigos soltos.
-3. Leia as descrições de cada item para entender o que está contido em cada pasta.
-
 ## Como Contribuir
 
 Se você deseja contribuir para este repositório, sinta-se à vontade para fazer um fork, adicionar seus próprios exercícios resolvidos ou códigos soltos e criar um pull request. Toda contribuição é bem-vinda, e isso pode ser um ótimo espaço para aprender e colaborar em projetos simples.
