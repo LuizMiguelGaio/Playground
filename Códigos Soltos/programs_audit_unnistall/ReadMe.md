@@ -34,12 +34,14 @@ programs_audit_uninstall/
 3. Extraia o conteúdo de `Win7-KB3191566-x86.zip` na mesma pasta.
 
 4. Abra o PowerShell como Administrador e execute:
-   ```powershell
+
+```powershell
    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
    .\Install-WMF5.1
-```
-
+````
 5. Reinicie o computador após a instalação.
+
+---
 
 ## ▶️ Uso do Script (para PS 5.0 ou superior)
 
