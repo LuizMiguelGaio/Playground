@@ -91,6 +91,11 @@ programs\_audit\_uninstall/
 
 * Scripts utilizam métodos internos para localizar e desinstalar programas listados. Use com cautela.
 * Recomendado rodar **listar\_todos.ps1** antes de configurar a lista de remoção.
+* O CMD não foi utilizado nesta auditoria por apresentar limitações técnicas importantes:
+
+   - O comando wmic product é notoriamente lento, impreciso e retorna apenas programas instalados via Windows Installer (.msi), ignorando a maioria dos softwares comuns instalados por .exe.
+
+   - Já o reg query, apesar de mais completo, demanda parsing complexo, o que compromete a legibilidade e manutenção do código em ambientes com múltiplos registros duplicados ou corrompidos.
 
 ---
 
