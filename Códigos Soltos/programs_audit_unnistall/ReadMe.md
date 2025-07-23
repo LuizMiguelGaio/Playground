@@ -38,11 +38,8 @@ programs_audit_uninstall/
    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -Force
    .\Install-WMF5.1
 ```
----
 
 5. Reinicie o computador após a instalação.
-
----
 
 ## ▶️ Uso do Script (para PS 5.0 ou superior)
 
